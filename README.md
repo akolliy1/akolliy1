@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: adesanmiakoladedotun@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: My quickest accomplishment was learning how to swimming in just few hours.
+- ⚡ Fun fact: My quickest accomplishment was learning how to swim in just few hours.
 
