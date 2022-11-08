@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: adesanmiakoladedotun@gmail.com
 - 😄 Pronouns: He / Him
-<!-- - ⚡ Fun fact: My quickest accomplishment was learning how to swim in just few hours. -->
+- 💬 LinkedIn: https://www.linkedin.com/in/akolade-adesanmi-156276142/
+- ⚡ Fun fact: I like to watch football matches.
 
