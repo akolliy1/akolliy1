@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning micro frontend
 -->
-- 👯 I’m looking to collaborate on nodej / python / blockchain projects
+- 👯 I’m looking to collaborate on NodeJS / Python / Blockchain projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: adesanmiakoladedotun@gmail.com
