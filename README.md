@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: adesanmiakoladedotun@gmail.com
 - 😄 Pronouns: He / Him
 - 💬 LinkedIn: https://www.linkedin.com/in/akolade-adesanmi-156276142/
-- ⚡ Fun fact: target=_blank
+- ⚡ Fun fact: target=_blank.
 
