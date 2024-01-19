@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Typescript / NodeJS / Python / Blockchain projects.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: adesanmiakoladedotun@gmail.com
-- 😄 Pronouns: He / Him
+- 📫 How to reach me: adesanmiakoladedotun@gmail.com.
+- 😄 Pronouns: He / Him.
 - 💬 LinkedIn: https://www.linkedin.com/in/akolade-adesanmi-156276142/
 <!-- - ⚡ Fun fact: target=_blank -->
 
