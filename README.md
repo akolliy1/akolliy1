@@ -26,6 +26,8 @@
 ![Code](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c#&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-Dot_Net-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Code](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
+![Code](https://img.shields.io/badge/Code-Roblox-informational?style=flat&logo=roblox&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-Vue_Js-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
