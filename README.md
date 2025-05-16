@@ -22,6 +22,7 @@
 ![OS](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
 ![Editor](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Code](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c#&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-Dot_Net-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
 ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
