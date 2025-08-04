@@ -16,8 +16,34 @@
 
 ![Status](https://github-profile-trophy.vercel.app/?username=akolliy1)
 
-🛠 Technologies & Tools
+## 🚀 Projects & Highlights
+
+### ExoSelect – Exoskeleton Decision-Support Platform  
+
+<div >
+<img width="350" height="520" alt="Screenshot 2025-08-04 at 13 12 28" src="https://github.com/user-attachments/assets/38de7433-49cc-437b-9197-20a0296d0ba3" />
+<img width="350" height="520" alt="Screenshot 2025-08-04 at 13 19 15" src="https://github.com/user-attachments/assets/b8a4ecee-0ed6-4dc8-a4fa-2d932c50438a" />
+</div>
+
+**PhD Research Collaboration • RAG • Digital Twin Viewer**
+> “From blank canvas to data-driven clarity in one click.”
+
+- **Context:** Partnered on a PhD-level research project to evaluate wearable exoskeletons for heavy-lift and repetitive industrial tasks.
+- **Backend (RAG):**  
+  • Built a Retrieval-Augmented Generation pipeline that ingests technical specs, runs an Analytic Hierarchy Process scoring engine, and auto-generates comparative risk reports.  
+  • Enabled stakeholders to compare multiple devices across criteria like exertion, stability, comfort, and cognitive load.
+- **Frontend (3D Digital Twin):**  
+  • Developed an interactive React component rendering human silhouettes with dynamic heat-map overlays—green where support is strongest, red where risk peaks.  
+  • Added real-time criteria toggles and “See More” drill-downs for joint-level analysis.
+- **Impact:** Transformed a static questionnaire into a living decision-support tool, giving researchers and engineers instant visual feedback on exoskeleton performance.
+
+> **Tech Stack:** NestJS • TypeORM • PostgreSQL • LangChain • OpenAI • React • Three.js • RAG • AHP  
 ---
+
+*Proud moment: I’d never tackled RAG before this—and today, ExoSelect powers data-driven choices in cutting-edge human-augmentation research.*
+
+## 🛠 Technologies & Tools
+<!-- --- -->
 
 ![OS](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
 ![Editor](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -49,4 +75,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolliy1&layout=compact&theme=dark)](https://github.com/akolliy1)
+
+
+
 
