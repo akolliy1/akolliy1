@@ -2,7 +2,7 @@
 
 <!-- I am a Web Developer who's enthusiastic about building useful stuff and bringing my ideas into reality. I enjoy building things using NestJs, ReactJS & VueJS. -->
 <!-- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning Lua (Roblox developer)
+- 🌱 I’m currently learning AI/Machine Learning/Deep Learning Computer vision (AI/ML/DL-CV)
 - 👯 I’m looking to collaborate on building frameworks or AI model
 - 📫 How to reach me: adesanmiakoladedotun@gmail.com.
 
