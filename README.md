@@ -51,7 +51,7 @@
 <img width="350" height="520" alt="Screenshot 2025-08-04 at 13 19 15" src="https://github.com/user-attachments/assets/b8a4ecee-0ed6-4dc8-a4fa-2d932c50438a" />
 </div>
 
-**PhD Research Collaboration • RAG • Digital Twin Viewer**
+**Collaboration • RAG • Digital Twin Viewer**
 > “From blank canvas to data-driven clarity in one click.”
 
 - **Context:** Partnered on a project to evaluate wearable exoskeletons for heavy-lift and repetitive industrial tasks.
