@@ -54,7 +54,7 @@
 **PhD Research Collaboration • RAG • Digital Twin Viewer**
 > “From blank canvas to data-driven clarity in one click.”
 
-- **Context:** Partnered on a PhD-level research project to evaluate wearable exoskeletons for heavy-lift and repetitive industrial tasks.
+- **Context:** Partnered on a project to evaluate wearable exoskeletons for heavy-lift and repetitive industrial tasks.
 - **Backend (RAG):**  
   • Built a Retrieval-Augmented Generation pipeline that ingests technical specs, runs an Analytic Hierarchy Process scoring engine, and auto-generates comparative risk reports.  
   • Enabled stakeholders to compare multiple devices across criteria like exertion, stability, comfort, and cognitive load.
